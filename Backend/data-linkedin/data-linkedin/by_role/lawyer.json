@@ -1,0 +1,486 @@
+[
+  {
+    "job_id": null,
+    "title": "Legal Counsel (Integrity)",
+    "company": "ABB",
+    "location": "Kecamatan Polen, East Nusa Tenggara, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/legal-counsel-integrity-at-abb-4348152781",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "2",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Entry Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:11:56.043759",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "International Counsel, Corporate",
+    "company": "Herbert Smith Freehills Kramer",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/international-counsel-corporate-at-herbert-smith-freehills-kramer-4322925492",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-17",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:12:35.369349",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": true,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Legal Contract Specialist",
+    "company": "PT Paramount Enterprise International",
+    "location": "Tangerang, Banten, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/legal-contract-specialist-at-pt-paramount-enterprise-international-4322622599",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-14",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:12:35.370643",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "specialist"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Legal Counsel",
+    "company": "Coca-Cola Europacific Partners",
+    "location": "South Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/legal-counsel-at-coca-cola-europacific-partners-4338652110",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-22",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.573658",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Expansion Legal Counsel",
+    "company": "Decathlon Indonesia",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/expansion-legal-counsel-at-decathlon-indonesia-4325244440",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-02",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.574082",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Country Legal Counsel",
+    "company": "Hitachi Energy",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/country-legal-counsel-at-hitachi-energy-4314764725",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-27",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.574493",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "E-Commerce Legal Counsel, Indonesia",
+    "company": "TikTok",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/e-commerce-legal-counsel-indonesia-at-tiktok-4322773932",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-17",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.574959",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Legal Counsel",
+    "company": "YSQ International",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/legal-counsel-at-ysq-international-4323389327",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-20",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.575368",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Consumer & Litigation Counsel",
+    "company": "Agoda",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/consumer-litigation-counsel-at-agoda-4340329464",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-02",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.575771",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Associate Lawyer",
+    "company": "Arsjad Yusuf and Partners",
+    "location": "Bogor, West Java, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/associate-lawyer-at-arsjad-yusuf-and-partners-4339429426",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-30",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.576181",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Head of Legal & Compliance - Insurance",
+    "company": "HyreWise",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/head-of-legal-compliance-insurance-at-hyrewise-4324974842",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-30",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.576598",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "head"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "T&T Manager - Legal Counsel for A&A and T&L - ID",
+    "company": "Deloitte",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/t-t-manager-legal-counsel-for-a-a-and-t-l-id-at-deloitte-4332139101",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-23",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.577009",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "manager"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "T&T Manager - Legal Counsel (Term Hire) - ID",
+    "company": "Deloitte",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/t-t-manager-legal-counsel-term-hire-id-at-deloitte-4323622630",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-20",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T18:13:12.577418",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "manager"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Business Counsel",
+    "company": "JTI",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/business-counsel-at-jti-4321062479",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-28",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T18:14:25.654298",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Legal Consultant",
+    "company": "Lawyers On Demand",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/legal-consultant-at-lawyers-on-demand-4310854550",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T18:14:25.654869",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "consultant"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Litigation Expert (SME)",
+    "company": "Meridial Marketplace, by Invisible",
+    "location": "Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/litigation-expert-sme-at-meridial-marketplace-by-invisible-4314174145",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-25",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T18:14:25.656578",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Senior/Principal Patent Counsel, SEP Litigation",
+    "company": "Nokia",
+    "location": "Gambir, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/senior-principal-patent-counsel-sep-litigation-at-nokia-4337947898",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "lawyer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-28",
+    "job_type": "Unknown",
+    "experience_level": "Senior",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T18:14:25.658415",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "senior"
+      ]
+    }
+  }
+]

@@ -1,0 +1,571 @@
+[
+  {
+    "job_id": null,
+    "title": "Cloud Engineer",
+    "company": "Logicalis Asia Pacific",
+    "location": "South Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/cloud-engineer-at-logicalis-asia-pacific-4306452601",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "2",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-29",
+    "job_type": "Full-time",
+    "experience_level": "Entry Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:35:38.668208",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Software Engineer, Backend",
+    "company": "Grab",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/software-engineer-backend-at-grab-4325220315",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "2",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Entry Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:35:38.668208",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "DevOps Engineer",
+    "company": "Bukalapak",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/devops-engineer-at-bukalapak-4334324941",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-05",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:14.352874",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "DevOps Engineer",
+    "company": "MiTech",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/devops-engineer-at-mitech-4339400886",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-26",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:14.352874",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Cloud Operation Engineer",
+    "company": "Tech Mahindra",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/cloud-operation-engineer-at-tech-mahindra-4324863611",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-27",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:14.352874",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Data Engineer",
+    "company": "Love, Bonito",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/data-engineer-at-love-bonito-4336766774",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-18",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:14.352874",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Devops Engineer",
+    "company": "Mobius Digital",
+    "location": "Tangerang, Banten, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/devops-engineer-at-mobius-digital-4336913752",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-18",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Cloud Engineer",
+    "company": "Abhidi Solution",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/cloud-engineer-at-abhidi-solution-4348065545",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-02",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Dev Ops Engineer",
+    "company": "FLOQ",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/dev-ops-engineer-at-floq-4324154204",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-23",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Site Reliability Engineer",
+    "company": "Bibit.id",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/site-reliability-engineer-at-bibit-id-4324614677",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-27",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Cloud Engineer",
+    "company": "Philip Morris International",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/cloud-engineer-at-philip-morris-international-4335240748",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Cloud Engineer",
+    "company": "INTEGRA",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/cloud-engineer-at-integra-4335841309",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-14",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "DevOps Engineer",
+    "company": "Labamu",
+    "location": "Tangerang, Banten, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/devops-engineer-at-labamu-4325213529",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Senior DevOps Engineer",
+    "company": "Robert Walters",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/senior-devops-engineer-at-robert-walters-4340720390",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer",
+        "senior"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "DevOps & Network Engineer (MikroTik, Cloud, Server)",
+    "company": "PT. RAKHASA ARTHA WISESA",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/devops-network-engineer-mikrotik-cloud-server-at-pt-rakhasa-artha-wisesa-4340393011",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Weekend Cloud Support Engineer (APAC)",
+    "company": "WALT Labs",
+    "location": "Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/weekend-cloud-support-engineer-apac-at-walt-labs-4333861552",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-02",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:36:49.848385",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "DevOps Engineer",
+    "company": "VELZI.AI LIMITED",
+    "location": "Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/devops-engineer-at-velzi-ai-limited-4347909372",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-30",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T12:37:58.463951",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "OpenShift Engineer / DevOps Engineer",
+    "company": "SIGMATECH",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/openshift-engineer-devops-engineer-at-sigmatech-4339851318",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-28",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T12:37:58.463951",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Senior Site Reliability Engineer",
+    "company": "PT ALTO Network",
+    "location": "Menteng, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/senior-site-reliability-engineer-at-pt-alto-network-4340395251",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "devops engineer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Unknown",
+    "experience_level": "Senior",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T12:37:58.463951",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer",
+        "senior"
+      ]
+    }
+  }
+]

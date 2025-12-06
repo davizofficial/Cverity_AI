@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CV - Professional (ATS Style)</title>
+  <style>
+    /* ATS-inspired redesign (Times New Roman) */
+    :root{
+      --page-w:880px;
+      --accent:#111;
+      --muted:#333;
+      --line:#111;
+      --bg:#ffffff;
+      --card:#fbfbfb;
+      --gap:18px;
+      font-family: "Times New Roman", Times, serif;
+    }
+
+    *{box-sizing:border-box;margin:0;padding:0}
+    html,body{height:100%;background:var(--bg);color:var(--muted);-webkit-font-smoothing:antialiased}
+    .wrap{max-width:var(--page-w);margin:28px auto;padding:28px;background:var(--card);border:1px solid #e9e9e9;border-radius:8px}
+
+    /* header: centered name + contact inline (compact) */
+    .header{
+      text-align:center;
+      padding-bottom:14px;
+      border-bottom:2px solid var(--line);
+      margin-bottom:20px;
+    }
+    .header h1{
+      font-size:34px;
+      letter-spacing:1px;
+      font-weight:700;
+      color:var(--accent);
+      margin-bottom:6px;
+    }
+    .header .contact{
+      font-size:13px;
+      color:var(--muted);
+      line-height:1.4;
+    }
+    .header .contact a{color:var(--accent);text-decoration:none}
+
+    /* layout: two columns — left sidebar narrow, right main */
+    .layout{display:grid;grid-template-columns:260px 1fr;gap:var(--gap)}
+    @media (max-width:760px){ .layout{grid-template-columns:1fr} .sidebar{order:2} .main{order:1} }
+
+    /* left sidebar: boxed items */
+    .sidebar{
+      padding-right:18px;
+      border-right:1px solid #f0f0f0;
+    }
+    .box{background:transparent;padding:10px 0;margin-bottom:12px}
+    .label{font-weight:700;text-transform:uppercase;letter-spacing:0.6px;color:var(--accent);font-size:12px;margin-bottom:8px}
+    .muted{font-size:13px;color:var(--muted);line-height:1.5}
+    .pill{display:inline-block;padding:6px 10px;border-radius:999px;background:#f3f3f8;font-size:13px;margin:4px 6px 6px 0}
+
+    /* main content sections */
+    .main{padding-left:22px}
+    .section{margin-bottom:18px}
+    .section .title{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+    .section .title h2{font-size:13px;text-transform:uppercase;letter-spacing:0.6px;color:var(--accent);margin:0;font-weight:700}
+    .rule{height:1px;background:transparent;border-bottom:1px solid #dcdcdc;margin-bottom:10px}
+
+    p, li {font-size:15px;color:#0a0a0a;line-height:1.45}
+    ul {margin-left:18px}
+    li {margin-bottom:6px}
+
+    /* entry layout with right-aligned date */
+    .entry{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px}
+    .entry .meta{flex:1}
+    .entry .date{white-space:nowrap;margin-left:16px;color:var(--muted);font-weight:600;font-size:13px}
+
+    .sub{font-style:italic;color:var(--muted);font-size:14px;margin-top:6px}
+
+    /* small print note */
+    .note{font-size:12px;color:var(--muted);margin-top:8px}
+
+    /* print-friendly tweaks */
+    @media print{
+      .wrap{border:none;border-radius:0;padding:12px;max-width:100%}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap" role="main" aria-label="Curriculum Vitae (ATS style)">
+    <!-- Header -->
+    <header class="header">
+      <h1>NAMA LENGKAP ANDA</h1>
+      <div class="contact">
+        email@example.com  |  +62 812 3456 7890  |  linkedin.com/in/username<br>
+        Kota, Negara
+      </div>
+    </header>
+
+    <div class="layout">
+      <!-- LEFT SIDEBAR (contact, skills, certifications) -->
+      <aside class="sidebar" aria-label="Sidebar">
+        <div class="box">
+          <div class="label">Contact</div>
+          <div class="muted">email@example.com<br>+62 812 3456 7890<br>linkedin.com/in/username<br>Kota, Negara</div>
+        </div>
+
+        <!-- Skills, Languages, Certifications akan ditambahkan secara dinamis jika ada data -->
+      </aside>
+
+      <!-- RIGHT MAIN -->
+      <main class="main" aria-label="Main content">
+        <!-- About -->
+        <section class="section" aria-labelledby="about">
+          <div class="title"><h2 id="about">About Me</h2></div>
+          <div class="rule" aria-hidden="true"></div>
+          <p>Profesional dengan ketertarikan mendalam di bidang [industri/bidang]. Memiliki pengalaman dalam [keahlian utama] dan berkomitmen untuk memberikan kontribusi maksimal dalam mencapai tujuan organisasi. Terbukti mampu bekerja dalam tim, mengelola proyek, dan menghasilkan hasil yang terukur.</p>
+        </section>
+
+        <!-- Education -->
+        <section class="section" aria-labelledby="education">
+          <div class="title"><h2 id="education">Education</h2></div>
+          <div class="rule" aria-hidden="true"></div>
+
+          <div class="entry">
+            <div class="meta">
+              <strong>Nama Universitas</strong><br>
+              <div class="sub">Gelar — Jurusan</div>
+            </div>
+            <div class="date">Tahun Lulus</div>
+          </div>
+        </section>
+
+        <!-- Experience -->
+        <section class="section" aria-labelledby="experience">
+          <div class="title"><h2 id="experience">Experience</h2></div>
+          <div class="rule" aria-hidden="true"></div>
+
+          <div class="entry">
+            <div class="meta">
+              <strong>Nama Organisasi — Posisi</strong><br>
+              Bulan Tahun – Bulan Tahun
+              <ul>
+                <li>Deskripsi tanggung jawab dan pencapaian pertama</li>
+                <li>Deskripsi tanggung jawab dan pencapaian kedua</li>
+                <li>Deskripsi tanggung jawab dan pencapaian ketiga</li>
+                <li>Deskripsi tanggung jawab dan pencapaian keempat</li>
+              </ul>
+            </div>
+            <div class="date">Bulan Tahun – Bulan Tahun</div>
+          </div>
+        </section>
+
+        <!-- Skills, Certifications, dan section lainnya akan ditambahkan secara dinamis jika ada data -->
+
+      </main>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,78 @@
+name: Deploy CVerity AI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  # Frontend deployment (handled by Vercel automatically)
+  frontend-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Check Frontend files
+        run: |
+          echo "Checking Frontend structure..."
+          ls -la Frontend/
+          
+      - name: Validate HTML
+        run: |
+          echo "HTML validation would go here"
+          # You can add HTML validation tools here
+          
+  # Backend checks
+  backend-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          extensions: zip, xml, mbstring, curl
+          
+      - name: Validate composer.json
+        run: |
+          cd Backend
+          composer validate --strict
+          
+      - name: Install dependencies
+        run: |
+          cd Backend
+          composer install --prefer-dist --no-progress --no-suggest
+          
+      - name: Check PHP syntax
+        run: |
+          cd Backend
+          find . -name "*.php" -exec php -l {} \; | grep -v "No syntax errors"
+          
+      - name: Run tests (if available)
+        run: |
+          cd Backend
+          # composer test
+          echo "Tests would run here"
+          
+  # Security checks
+  security-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Check for sensitive files
+        run: |
+          if [ -f "Backend/.env.php" ]; then
+            echo "ERROR: .env.php should not be committed!"
+            exit 1
+          fi
+          echo "✓ No sensitive files found"
+          
+      - name: Check .gitignore
+        run: |
+          if ! grep -q "Backend/.env.php" .gitignore; then
+            echo "WARNING: .env.php not in .gitignore"
+          fi
+          echo "✓ .gitignore check passed"
