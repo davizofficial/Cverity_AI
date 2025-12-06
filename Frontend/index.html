@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CVerity AI - Platform Evaluasi CV Profesional</title>
+    <link rel="icon" type="image/png" href="logo.png">
+    
+    <!-- Configuration -->
+    <script src="assets/js/config.js"></script>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#7C3AED',
+                        'primary-dark': '#6D28D9',
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.6s ease-in-out',
+                        'slide-up': 'slideUp 0.6s ease-out',
+                        'bounce-slow': 'bounce 3s infinite',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' },
+                        },
+                        slideUp: {
+                            '0%': { transform: 'translateY(30px)', opacity: '0' },
+                            '100%': { transform: 'translateY(0)', opacity: '1' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .gradient-text {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .upload-zone-hover:hover {
+            transform: scale(1.02);
+            transition: all 0.3s ease;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-gray-50 to-gray-100 min-h-screen flex flex-col">
+    <!-- Header -->
+    <header class="bg-white shadow-sm sticky top-0 z-50 backdrop-blur-sm bg-white/95 animate-fade-in">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-3">
+                    <img src="logo.png" alt="CVerity AI Logo" class="w-12 h-12 object-contain">
+                    <div>
+                        <span class="text-2xl font-bold gradient-text">CVerity AI</span>
+                        <p class="text-xs text-gray-500">Platform Evaluasi CV Berbasis Kecerdasan Buatan</p>
+                    </div>
+                </div>
+                <!-- Desktop Nav -->
+                <nav class="hidden md:flex items-center space-x-2">
+                    <a href="index.html" class="px-4 py-2 text-white bg-primary rounded-lg font-medium shadow-md">
+                        <i class="fas fa-home mr-2"></i>Beranda
+                    </a>
+                    <a href="about.html" class="px-4 py-2 text-white bg-primary rounded-lg font-medium shadow-md">
+                        <i class="fas fa-info-circle mr-2"></i>Tentang Kami
+                    </a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full flex-1">
+        <!-- Hero Text -->
+        <div class="text-center mb-12 animate-slide-up w-full">
+            <div class="inline-block mb-4">
+                <span class="px-4 py-2 bg-purple-100 text-primary rounded-full text-sm font-semibold">
+                    <i class="fas fa-sparkles mr-2"></i>Powered by Google Gemini AI
+                </span>
+            </div>
+            <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+                Optimalkan CV Anda untuk<br/>
+                <span class="gradient-text">Kesuksesan Karir Profesional</span>
+            </h1>
+            <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-8">
+                Platform evaluasi CV berbasis <strong class="text-primary">AI</strong> yang memberikan analisis mendalam, skor ATS real-time, dan rekomendasi strategis untuk meningkatkan daya saing Anda di pasar kerja. Solusi profesional untuk kandidat yang serius dalam pengembangan karir.
+            </p>
+            
+            <!-- Features -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-3xl mx-auto mb-12">
+                <div class="flex items-center justify-center gap-2 text-gray-700">
+                    <i class="fas fa-chart-line text-green-500"></i>
+                    <span class="text-sm font-medium">Skor ATS Real-Time</span>
+                </div>
+                <div class="flex items-center justify-center gap-2 text-gray-700">
+                    <i class="fas fa-lightbulb text-green-500"></i>
+                    <span class="text-sm font-medium">Insight Mendalam & Actionable</span>
+                </div>
+                <div class="flex items-center justify-center gap-2 text-gray-700">
+                    <i class="fas fa-briefcase text-green-500"></i>
+                    <span class="text-sm font-medium">Matching Lowongan Kerja</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Upload Area -->
+        <div class="bg-white rounded-2xl shadow-sm border-2 border-gray-200 p-8 mb-8">
+            <div id="drop-zone" class="border-2 border-dashed border-primary rounded-xl p-16 text-center cursor-pointer hover:bg-primary hover:bg-opacity-5 transition-all duration-200">
+                <div class="flex flex-col items-center">
+                    <div class="w-20 h-20 bg-primary bg-opacity-10 rounded-full flex items-center justify-center mb-6">
+                        <svg class="w-10 h-10 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">Mulai Evaluasi CV Profesional Anda</h3>
+                    <p class="text-gray-500 mb-6">Unggah dokumen CV Anda dan dapatkan analisis komprehensif dalam hitungan detik</p>
+                    <label for="file-input" class="inline-flex items-center px-6 py-3 bg-primary text-white font-medium rounded-lg hover:bg-primary-dark cursor-pointer transition-colors">
+                        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path>
+                        </svg>
+                        Pilih Berkas
+                    </label>
+                    <input type="file" id="file-input" accept=".pdf,.docx" class="hidden">
+                </div>
+            </div>
+            
+            <p class="text-center text-sm text-gray-500 mt-4">
+                <i class="fas fa-shield-alt text-primary mr-1"></i>
+                Data Anda aman dan terenkripsi • Format: PDF & DOCX • Maks: 5 MB
+            </p>
+        </div>
+
+        <!-- Messages -->
+        <div id="messages" class="mb-6"></div>
+        
+        <!-- Analyze Button -->
+        <button id="analyze-btn" style="display:none" class="w-full px-6 py-4 bg-primary text-white text-lg font-semibold rounded-lg hover:bg-primary-dark transition-colors shadow-lg hover:shadow-xl">
+            <i class="fas fa-robot mr-2"></i>Analisis dengan AI Sekarang
+        </button>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 py-8 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center">
+                <p class="text-gray-600 text-sm">
+                    © 2024 CVerity AI. Powered by Google Gemini AI.
+                </p>
+                <p class="text-gray-500 text-xs mt-2">
+                    Platform evaluasi CV profesional berbasis kecerdasan buatan
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="assets/js/app-simple.js"></script>
+</body>
+</html>
