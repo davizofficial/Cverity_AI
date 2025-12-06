@@ -1,0 +1,934 @@
+[
+  {
+    "job_id": null,
+    "title": "Backend Engineer",
+    "company": "Bibit.id",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/backend-engineer-at-bibit-id-4324614675",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "2",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-27",
+    "job_type": "Full-time",
+    "experience_level": "Entry Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:00.808846",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Backend Engineer",
+    "company": "Pintarnya",
+    "location": "Kebayoran, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/backend-engineer-at-pintarnya-4324994937",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "2",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Entry Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:00.808846",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Back End Developer (Node.Js)",
+    "company": "Vascomm",
+    "location": "Sidoarjo, East Java, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/back-end-developer-node-js-at-vascomm-4348220100",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "2",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Entry Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:00.808846",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Mobile App Developer",
+    "company": "Stranger Soccer",
+    "location": "Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/mobile-app-developer-at-stranger-soccer-4340741868",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Android Software Engineer (Marketplace App & Mobile) - Sea Labs",
+    "company": "Sea",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/android-software-engineer-marketplace-app-mobile-sea-labs-at-sea-4333765317",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-24",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Back End Developer",
+    "company": "PT Bank Digital BCA (BCA Digital)",
+    "location": "South Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/back-end-developer-at-pt-bank-digital-bca-bca-digital-4341431499",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-19",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Software Engineer, Mobile (iOS) - GEO",
+    "company": "Grab",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/software-engineer-mobile-ios-geo-at-grab-4296077069",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-10",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "iOS Software Engineer (Marketplace App & Mobile) - Sea Labs",
+    "company": "Sea",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/ios-software-engineer-marketplace-app-mobile-sea-labs-at-sea-4333894172",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-24",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Back-end Developer",
+    "company": "PT AYODYA DIALOG SEMESTA",
+    "location": "Kecamatan Purwokerto Timur, Central Java, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/back-end-developer-at-pt-ayodya-dialog-semesta-4336971078",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-18",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Software Engineer, Backend - ACE",
+    "company": "Grab",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/software-engineer-backend-ace-at-grab-4324640673",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-26",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Lead Software Engineer, Mobile (Android) - Fulfilment",
+    "company": "Grab",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/lead-software-engineer-mobile-android-fulfilment-at-grab-4320481016",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-24",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer",
+        "lead"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Back-end Developer",
+    "company": "PT",
+    "location": "Kembangan, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/back-end-developer-at-pt-4335575908",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-11",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Senior Software Engineer, Mobile (Android) - Fulfilment",
+    "company": "Grab",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/senior-software-engineer-mobile-android-fulfilment-at-grab-4320510979",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "3",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-24",
+    "job_type": "Full-time",
+    "experience_level": "Associate",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:22:39.610221",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer",
+        "senior"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Mobile Platform Engineer - Junior or Senior Consultant",
+    "company": "EY",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/mobile-platform-engineer-junior-or-senior-consultant-at-ey-4074574017",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-25",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.458084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer",
+        "consultant",
+        "junior",
+        "senior"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Mobile Engineer (Android)",
+    "company": "Traveloka",
+    "location": "Banten, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/mobile-engineer-android-at-traveloka-4324620786",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-26",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.458084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Android Software Engineer (Marketplace App & Mobile) - Sea Labs",
+    "company": "Shopee",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/android-software-engineer-marketplace-app-mobile-sea-labs-at-shopee-4323231262",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-18",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.459084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Tech Talent Pool",
+    "company": "Akar Inti Teknologi",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/tech-talent-pool-at-akar-inti-teknologi-4323555350",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-21",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.459084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": []
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Frontend Developer (Web & Mobile)",
+    "company": "Indocyber Global Teknologi, PT",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/frontend-developer-web-mobile-at-indocyber-global-teknologi-pt-4340314004",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.459084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Backend Engineer - Junior or Senior Consultant",
+    "company": "EY",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/backend-engineer-junior-or-senior-consultant-at-ey-4074573079",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-24",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.460084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer",
+        "consultant",
+        "junior",
+        "senior"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Android Developer",
+    "company": "Indocyber Global Teknologi, PT",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/android-developer-at-indocyber-global-teknologi-pt-4338948180",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-26",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.460084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Mobile Engineer (iOS)",
+    "company": "Traveloka",
+    "location": "Banten, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/mobile-engineer-ios-at-traveloka-4324984980",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.460084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Android Developer",
+    "company": "FLOQ",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/android-developer-at-floq-4324104270",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-23",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.460084",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Android Engineer - Client App (SDE 1)",
+    "company": "Kredivo Group",
+    "location": "Jakarta Metropolitan Area",
+    "link": "https://id.linkedin.com/jobs/view/android-engineer-client-app-sde-1-at-kredivo-group-4323498088",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "F",
+      "experience": "4",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-21",
+    "job_type": "Full-time",
+    "experience_level": "Mid-Senior Level",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:15.461085",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Backend Engineer Intern (Indonesia) - 2025 Start",
+    "company": "TikTok",
+    "location": "Yogyakarta, Yogyakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/backend-engineer-intern-indonesia-2025-start-at-tiktok-4323474240",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "I",
+      "experience": "1",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-20",
+    "job_type": "Internship",
+    "experience_level": "Internship",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:54.602508",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": true,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Backend Engineer Project Intern (TikTok Shop by Tokopedia) - 2026 Start (BS/MS)",
+    "company": "TikTok",
+    "location": "Yogyakarta, Yogyakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/backend-engineer-project-intern-tiktok-shop-by-tokopedia-2026-start-bs-ms-at-tiktok-4321933499",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "I",
+      "experience": "1",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-11",
+    "job_type": "Internship",
+    "experience_level": "Internship",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:54.603508",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": true,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Backend Engineer (Independent Contractor)",
+    "company": "Garena",
+    "location": "Jakarta, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/backend-engineer-independent-contractor-at-garena-4333868127",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "I",
+      "experience": "1",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-25",
+    "job_type": "Internship",
+    "experience_level": "Internship",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:54.604508",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Back End Developer",
+    "company": "PARKING+",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/back-end-developer-at-parking%2B-4324691515",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "job_type": "I",
+      "experience": "1",
+      "date_filter": "r2592000"
+    },
+    "posted_time": "2025-11-26",
+    "job_type": "Internship",
+    "experience_level": "Internship",
+    "work_arrangement": "Not Specified",
+    "scraped_at": "2025-12-02T12:23:54.605514",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Mobile Application Developer",
+    "company": "PT. Adi Data Informatika",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/mobile-application-developer-at-pt-adi-data-informatika-4324897708",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-28",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T12:24:29.506665",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Frontend Engineer - Android (React Native) - Fully Remote",
+    "company": "Makro PRO",
+    "location": "Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/frontend-engineer-android-react-native-fully-remote-at-makro-pro-4347418656",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-11-25",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T12:24:29.506665",
+    "metadata": {
+      "is_remote": true,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "Android Developer",
+    "company": "BookCabin",
+    "location": "Menteng, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/android-developer-at-bookcabin-4340180723",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T12:24:29.506665",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "developer"
+      ]
+    }
+  },
+  {
+    "job_id": null,
+    "title": "iOS Software Engineer (Marketplace App & Mobile) - Sea Labs",
+    "company": "Shopee",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/ios-software-engineer-marketplace-app-mobile-sea-labs-at-shopee-4324969834",
+    "salary_info": null,
+    "benefits": null,
+    "search_role": "mobile developer",
+    "search_filters": {
+      "remote": "R",
+      "date_filter": "r604800"
+    },
+    "posted_time": "2025-12-01",
+    "job_type": "Unknown",
+    "experience_level": "Not Specified",
+    "work_arrangement": "Remote",
+    "scraped_at": "2025-12-02T12:24:29.506665",
+    "metadata": {
+      "is_remote": false,
+      "is_internship": false,
+      "is_part_time": false,
+      "is_freelance": false,
+      "is_fresh_graduate": false,
+      "keywords": [
+        "engineer"
+      ]
+    }
+  }
+]
